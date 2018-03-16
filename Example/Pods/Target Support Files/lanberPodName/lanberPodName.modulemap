@@ -1,0 +1,6 @@
+framework module lanberPodName {
+  umbrella header "lanberPodName-umbrella.h"
+
+  export *
+  module * { export * }
+}

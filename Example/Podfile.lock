@@ -1,0 +1,16 @@
+PODS:
+  - lanberPodName (0.1.0)
+
+DEPENDENCIES:
+  - lanberPodName (from `../`)
+
+EXTERNAL SOURCES:
+  lanberPodName:
+    :path: ../
+
+SPEC CHECKSUMS:
+  lanberPodName: e6d9931e3ae49c34a6f5c9a53c59ca5fd1a137e4
+
+PODFILE CHECKSUM: 97cb1a8041abb118d6b41909aa00f739b10f86b8
+
+COCOAPODS: 1.3.1
