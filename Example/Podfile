@@ -1,0 +1,6 @@
+use_frameworks!
+target 'lanberPodName_Tests' do
+  pod 'lanberPodName', :path => '../'
+  
+  
+end
